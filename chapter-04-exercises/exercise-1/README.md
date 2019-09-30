@@ -1,6 +1,2 @@
 # Exercise 1
-Using the text-edit of your choice (e.g., Atom), create a new file called `README.md`. Alternatively, you may clone this repository and edit this file.
-
-In your `README.md` document, put your favorite quote in a block quote, and provide a link to a website that provides additional information about the quote.
-
-Note that you can preview this Markdown in Atom to make sure it works correctly.
+> ["Hard choices, easy life. Easy choices, hard life. Jerzy Gregory"](https://twitter.com/intent/tweet?text=Hard%20choices,%20easy%20life.%20Easy%20choices,%20hard%20life.%20Jerzy%20Gregory+http://bit.ly/WisdomQuoteOfTheDay) 
